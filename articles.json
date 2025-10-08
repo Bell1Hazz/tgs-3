@@ -6,35 +6,32 @@
       "author": "Sarah Johnson",
       "date": "15 November 2024",
       "category": "technology",
-      "summary": "Discover how artificial intelligence is transforming the way developers build modern web applications, from automated code generation to intelligent debugging tools.",
-      "content": "Artificial intelligence has become a game-changer in web development, offering unprecedented opportunities to streamline workflows and enhance productivity. Modern AI-powered tools like GitHub Copilot, ChatGPT, and specialized development assistants are revolutionizing how developers approach coding challenges. These tools not only accelerate development cycles but also help maintain code quality through intelligent suggestions and automated testing. The integration of AI in development workflows has shown remarkable improvements in project delivery times while reducing common coding errors.",
-      "image": "https://placeholder-image-service.onrender.com/image/400x250?prompt=Modern developer workspace with AI coding tools and futuristic interface&id=af3517ea-c204-434b-8e12-796f8b8de58d&customer_id=cus_SMK1JdUA0sAc28",
-      "readTime": "5 min read",
-      "tags": ["AI", "Web Development", "Technology", "Productivity"]
+      "summary": "Discover how artificial intelligence is transforming the way developers build modern web applications.",
+      "content": "Artificial intelligence has become a game-changer in web development, offering unprecedented opportunities to streamline workflows and enhance productivity. Modern AI-powered tools are revolutionizing how developers approach coding challenges.",
+      "image": "images/pexels-bertellifotografia-16094040.jpg",
+      "readTime": "5 min read"
     },
     {
       "id": 2,
-      "title": "Mastering UI/UX Design Principles for Better User Experience",
+      "title": "Mastering UI/UX Design Principles",
       "author": "Michael Chen",
       "date": "12 November 2024",
       "category": "design",
-      "summary": "Learn the fundamental principles of UI/UX design that create engaging and intuitive user experiences across digital platforms.",
-      "content": "Creating exceptional user experiences requires a deep understanding of design principles that go beyond visual aesthetics. Successful UI/UX design balances functionality with beauty, ensuring users can navigate intuitively while enjoying visually appealing interfaces. Key principles include consistency in design elements, clear information hierarchy, responsive layouts that work across devices, and accessibility considerations for all users. Modern design trends emphasize minimalism, micro-interactions, and user-centered design methodologies that put the user's needs at the forefront of every design decision.",
-      "image": "https://placeholder-image-service.onrender.com/image/400x250?prompt=Clean modern UI design mockups with colorful interface elements and user experience flow&id=af3517ea-c204-434b-8e12-796f8b8de58d&customer_id=cus_SMK1JdUA0sAc28",
-      "readTime": "7 min read",
-      "tags": ["Design", "UI/UX", "User Experience", "Interface"]
+      "summary": "Learn the fundamental principles of UI/UX design that create engaging user experiences.",
+      "content": "Creating exceptional user experiences requires a deep understanding of design principles that go beyond visual aesthetics. Successful UI/UX design balances functionality with beauty.",
+      "image": "images/pexels-mikael-blomkvist-6476263.jpg",
+      "readTime": "7 min read"
     },
     {
       "id": 3,
-      "title": "Building Scalable Business Solutions with Cloud Technology",
+      "title": "Building Scalable Business Solutions",
       "author": "Emily Rodriguez",
       "date": "10 November 2024",
       "category": "business",
-      "summary": "Explore how cloud technology is enabling businesses to scale efficiently while reducing infrastructure costs and improving operational flexibility.",
-      "content": "Cloud technology has transformed the business landscape, offering unprecedented scalability and flexibility for organizations of all sizes. By leveraging cloud infrastructure, businesses can rapidly adapt to changing market demands, scale resources on-demand, and reduce traditional infrastructure costs. Modern cloud solutions provide robust security features, automated backup systems, and global accessibility that enable remote work and international expansion. Companies utilizing cloud-first strategies report improved collaboration, faster time-to-market for new products, and enhanced disaster recovery capabilities.",
-      "image": "https://placeholder-image-service.onrender.com/image/400x250?prompt=Business professionals working with cloud technology and digital transformation&id=af3517ea-c204-434b-8e12-796f8b8de58d&customer_id=cus_SMK1JdUA0sAc28",
-      "readTime": "6 min read",
-      "tags": ["Business", "Cloud", "Technology", "Scalability"]
+      "summary": "Explore how cloud technology enables businesses to scale efficiently while reducing costs.",
+      "content": "Cloud technology has transformed the business landscape, offering unprecedented scalability and flexibility for organizations of all sizes.",
+      "image": "images/pexels-pavel-danilyuk-7869054.jpg",
+      "readTime": "6 min read"
     },
     {
       "id": 4,
@@ -42,35 +39,32 @@
       "author": "David Kim",
       "date": "08 November 2024",
       "category": "technology",
-      "summary": "Investigating emerging trends in mobile development including cross-platform frameworks, AR integration, and next-generation user interfaces.",
-      "content": "Mobile app development continues to evolve rapidly with new technologies and frameworks emerging constantly. Cross-platform development tools like Flutter and React Native have gained significant traction, allowing developers to create high-performance apps for multiple platforms with a single codebase. Augmented reality integration is becoming more mainstream, offering immersive user experiences in gaming, shopping, and education apps. The rise of 5G technology is enabling more sophisticated mobile applications with real-time capabilities and enhanced performance.",
-      "image": "https://placeholder-image-service.onrender.com/image/400x250?prompt=Futuristic mobile app development with AR technology and modern smartphone interfaces&id=af3517ea-c204-434b-8e12-796f8b8de58d&customer_id=cus_SMK1JdUA0sAc28",
-      "readTime": "8 min read",
-      "tags": ["Mobile", "App Development", "AR", "Cross-platform"]
+      "summary": "Investigating emerging trends in mobile development including cross-platform frameworks.",
+      "content": "Mobile app development continues to evolve rapidly with new technologies and frameworks emerging constantly.",
+      "image": "images/pexels-divinetechygirl-1181244.jpg",
+      "readTime": "8 min read"
     },
     {
       "id": 5,
-      "title": "Creative Brand Identity Design Strategies",
+      "title": "Creative Brand Identity Design",
       "author": "Lisa Wang",
       "date": "05 November 2024",
       "category": "design",
-      "summary": "Discover innovative approaches to creating memorable brand identities that resonate with target audiences and stand out in competitive markets.",
-      "content": "Brand identity design goes far beyond creating a logo; it encompasses the entire visual and emotional experience that customers associate with a brand. Successful brand strategies consider color psychology, typography choices, and consistent visual elements across all touchpoints. Modern brands are embracing authentic storytelling, sustainability messaging, and inclusive design practices that reflect contemporary values. The digital age has also introduced new considerations for brand identity, including social media presence, interactive elements, and adaptability across various digital platforms.",
-      "image": "https://placeholder-image-service.onrender.com/image/400x250?prompt=Creative brand identity design with colorful logos and branding materials&id=af3517ea-c204-434b-8e12-796f8b8de58d&customer_id=cus_SMK1JdUA0sAc28",
-      "readTime": "6 min read",
-      "tags": ["Branding", "Design", "Identity", "Marketing"]
+      "summary": "Discover innovative approaches to creating memorable brand identities.",
+      "content": "Brand identity design goes far beyond creating a logo; it encompasses the entire visual and emotional experience.",
+      "image": "images/pexels-nourabiad-25566785.jpg",
+      "readTime": "6 min read"
     },
     {
       "id": 6,
-      "title": "Digital Marketing Strategies for Small Businesses",
+      "title": "Digital Marketing for Small Business",
       "author": "Robert Johnson",
       "date": "03 November 2024",
       "category": "business",
-      "summary": "Learn cost-effective digital marketing techniques that help small businesses compete with larger corporations and reach their target audience effectively.",
-      "content": "Small businesses can leverage digital marketing to compete effectively with larger corporations by focusing on targeted strategies and authentic customer relationships. Social media marketing, content creation, and local SEO optimization provide cost-effective ways to reach potential customers. Email marketing campaigns, influencer partnerships, and community engagement help build brand loyalty without massive advertising budgets. The key is understanding your audience deeply and creating valuable, relevant content that addresses their specific needs and challenges.",
-      "image": "https://placeholder-image-service.onrender.com/image/400x250?prompt=Small business digital marketing with social media analytics and online advertising&id=af3517ea-c204-434b-8e12-796f8b8de58d&customer_id=cus_SMK1JdUA0sAc28",
-      "readTime": "7 min read",
-      "tags": ["Marketing", "Small Business", "Digital", "Strategy"]
+      "summary": "Learn cost-effective digital marketing techniques for small businesses.",
+      "content": "Small businesses can leverage digital marketing to compete effectively with larger corporations by focusing on targeted strategies.",
+      "image": "images/pexels-ketut-subiyanto-4473351.jpg",
+      "readTime": "7 min read"
     }
   ]
 }

@@ -5,16 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ArticleHub - Latest Articles</title>
     <link rel="stylesheet" href="style.css">
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"> -->
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">--></head>
+</head>
 <body>
-    <header class="header" id="header">
+    <header class="header">
         <div class="container">
-            <div class="nav-brand">
-                <div class="logo">
-                    <i class="fas fa-newspaper"></i>
-                    <span>ArticleHub</span>
-                </div>
+            <div class="logo">
+                <span> ArticleHub</span>
             </div>
             
             <nav class="nav-menu" id="navMenu">
@@ -32,15 +28,9 @@
             </nav>
 
             <div class="nav-actions">
-                <button class="theme-toggle" id="themeToggle">
-                    <i class="fas fa-moon"></i>
-                </button>
-                <button class="search-toggle" id="searchToggle">
-                    <i class="fas fa-search"></i>
-                </button>
-                <button class="nav-toggle" id="navToggle">
-                    <i class="fas fa-bars"></i>
-                </button>
+                <button class="theme-toggle" id="themeToggle">🌙</button>
+                <button class="search-toggle" id="searchToggle"></button>
+                <button class="nav-toggle" id="navToggle">☰</button>
             </div>
         </div>
 
@@ -49,9 +39,7 @@
             <div class="container">
                 <div class="search-input-wrapper">
                     <input type="text" placeholder="Cari artikel..." id="searchInput">
-                    <button class="search-btn" id="searchBtn">
-                        <i class="fas fa-search"></i>
-                    </button>
+                    <button class="search-btn" id="searchBtn">🔍</button>
                 </div>
             </div>
         </div>
@@ -68,7 +56,7 @@
                     </p>
                     <button class="cta-btn" onclick="document.getElementById('articles').scrollIntoView({behavior: 'smooth'})">
                         <span>Jelajahi Artikel</span>
-                        <i class="fas fa-arrow-down"></i>
+                        <span>⬇</span>
                     </button>
                 </div>
             </div>
@@ -88,39 +76,14 @@
                 </div>
                 
                 <div class="articles-grid" id="articlesGrid">
-                    <!-- Articles akan dimuat dari JavaScript -->
-                    <div class="loading-skeleton">
-                        <div class="skeleton-card">
-                            <div class="skeleton-image"></div>
-                            <div class="skeleton-content">
-                                <div class="skeleton-title"></div>
-                                <div class="skeleton-text"></div>
-                                <div class="skeleton-text"></div>
-                            </div>
-                        </div>
-                        <div class="skeleton-card">
-                            <div class="skeleton-image"></div>
-                            <div class="skeleton-content">
-                                <div class="skeleton-title"></div>
-                                <div class="skeleton-text"></div>
-                                <div class="skeleton-text"></div>
-                            </div>
-                        </div>
-                        <div class="skeleton-card">
-                            <div class="skeleton-image"></div>
-                            <div class="skeleton-content">
-                                <div class="skeleton-title"></div>
-                                <div class="skeleton-text"></div>
-                                <div class="skeleton-text"></div>
-                            </div>
-                        </div>
-                    </div>
+                    <!-- Loading placeholder -->
+                    <div class="loading-text">Loading articles...</div>
                 </div>
 
                 <div class="load-more-container">
                     <button class="load-more-btn" id="loadMoreBtn">
                         <span>Load More Articles</span>
-                        <i class="fas fa-plus"></i>
+                        <span>+</span>
                     </button>
                 </div>
             </div>
@@ -165,16 +128,15 @@
             <div class="footer-content">
                 <div class="footer-section">
                     <div class="footer-logo">
-                        <i class="fas fa-newspaper"></i>
-                        <span>ArticleHub</span>
+                        <span>📰 ArticleHub</span>
                     </div>
                     <p>Platform artikel terbaik untuk semua topik menarik dan informatif.</p>
-                    <!-- <div class="social-links">
-                        <a href="#" class="social-link"><i class="fab fa-facebook"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-linkedin"></i></a>
-                    </div> -->
+                    <div class="social-links">
+                        <a href="#" class="social-link">📘</a>
+                        <a href="#" class="social-link">🐦</a>
+                        <a href="#" class="social-link">📷</a>
+                        <a href="#" class="social-link">💼</a>
+                    </div>
                 </div>
                 
                 <div class="footer-section">
@@ -202,15 +164,13 @@
                     <p>Berlangganan untuk mendapat artikel terbaru</p>
                     <div class="newsletter-form">
                         <input type="email" placeholder="Email anda..." id="newsletterEmail">
-                        <button type="submit" id="subscribeBtn">
-                            <i class="fas fa-paper-plane"></i>
-                        </button>
+                        <button type="submit" id="subscribeBtn">✈</button>
                     </div>
                 </div>
             </div>
             
             <div class="footer-bottom">
-                <p>&copy; 2024 ArticleHub. All rights reserved.</p>
+                <p>&copy; 2025 ArticleHub. All rights reserved.</p>
                 <div class="footer-bottom-links">
                     <a href="#">Privacy Policy</a>
                     <a href="#">Terms of Service</a>
@@ -224,9 +184,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h2 id="modalTitle"></h2>
-                <button class="modal-close" id="modalClose">
-                    <i class="fas fa-times"></i>
-                </button>
+                <button class="modal-close" id="modalClose">✕</button>
             </div>
             <div class="modal-body">
                 <div class="modal-meta">
