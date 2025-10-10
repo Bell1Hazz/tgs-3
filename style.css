@@ -277,6 +277,10 @@ body {
 .articles-section {
   padding: 4rem 0;
 }
+[data-theme="light"] .articles-section {
+  background-color: #b8b9bd;  /* Background lebih terang */
+}
+
 
 .section-header {
   text-align: center;
